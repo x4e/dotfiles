@@ -1,0 +1,18 @@
+[Default Applications]
+image/jpeg=userapp-eog-KHL3Z0.desktop
+image/gif=userapp-eog-KHL3Z0.desktop
+image/png=userapp-eog-KHL3Z0.desktop
+image/svg+xml=userapp-eog-KHL3Z0.desktop
+image/svg+xml-compressed=userapp-eog-KHL3Z0.desktop
+image/tiff=userapp-eog-KHL3Z0.desktop
+image/bmp=userapp-eog-KHL3Z0.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+image/jpeg=userapp-eog-KHL3Z0.desktop;
+image/gif=userapp-eog-KHL3Z0.desktop;
+image/png=userapp-eog-KHL3Z0.desktop;
+image/svg+xml=userapp-eog-KHL3Z0.desktop;
+image/svg+xml-compressed=userapp-eog-KHL3Z0.desktop;
+image/tiff=userapp-eog-KHL3Z0.desktop;
+image/bmp=userapp-eog-KHL3Z0.desktop;
