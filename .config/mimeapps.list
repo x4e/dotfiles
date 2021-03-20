@@ -7,6 +7,8 @@ image/svg+xml-compressed=userapp-eog-KHL3Z0.desktop
 image/tiff=userapp-eog-KHL3Z0.desktop
 image/bmp=userapp-eog-KHL3Z0.desktop
 x-scheme-handler/msteams=teams.desktop
+inode/directory=xfce4-file-manager.desktop
+x-scheme-handler/trash=xfce4-file-manager.desktop
 
 [Added Associations]
 image/jpeg=userapp-eog-KHL3Z0.desktop;
@@ -16,3 +18,6 @@ image/svg+xml=userapp-eog-KHL3Z0.desktop;
 image/svg+xml-compressed=userapp-eog-KHL3Z0.desktop;
 image/tiff=userapp-eog-KHL3Z0.desktop;
 image/bmp=userapp-eog-KHL3Z0.desktop;
+inode/directory=xfce4-file-manager.desktop;
+x-scheme-handler/trash=xfce4-file-manager.desktop;
+

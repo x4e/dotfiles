@@ -2,6 +2,6 @@ EDITOR=nano
 VISUAL=nano
 BROWSER=firefox
 
-XDG_CONFIG_HOME=@{HOME}/.config
-XDG_CACHE_HOME=@{HOME}/.cache
-XDG_DATA_HOME=@{HOME}/.local/share
+XDG_CONFIG_HOME=/home/cook/.config
+XDG_CACHE_HOME=/home/cook/.cache
+XDG_DATA_HOME=/home/cook/.local/share
