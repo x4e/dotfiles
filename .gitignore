@@ -7,12 +7,17 @@
 .config/Microsoft/
 .config/discord/
 .config/teams/
+.config/Code - OSS/
 .gnupg/
 .local/
 .pki/
 .ssh/
+.java/
+.m2/
 .mozilla/
 .thunderbird/
 .viminfo
+.vscode-oss/*
 Documents/
 Downloads/
+Computing/
