@@ -4,9 +4,15 @@
 .bash_profile
 .cache/
 .cargo/
+.config/Mousepad/
+.config/Thunar/
+.config/Yubico/
 .config/Microsoft/
+.config/dconf
 .config/discord/
 .config/teams/
+.config/qalculate/
+.config/xfce4/
 .config/Code - OSS/
 .gnupg/
 .local/
@@ -15,9 +21,17 @@
 .java/
 .m2/
 .mozilla/
+.npm/
 .thunderbird/
 .viminfo
 .vscode-oss/*
+
+.aspell.*
+.lesshst
+.python_history
+.wget-hsts
+
 Documents/
 Downloads/
 Computing/
+scripts/
