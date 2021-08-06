@@ -11,6 +11,7 @@
 .config/dconf
 .config/discord/
 .config/teams/
+.config/neomutt/
 .config/qalculate/
 .config/xfce4/
 .config/Code - OSS/
@@ -34,4 +35,5 @@
 Documents/
 Downloads/
 Computing/
+Pictures/
 scripts/
